@@ -1,6 +1,6 @@
 {
   "name": "@kovalenko/nestjs-pg-notify",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "pg_notify listener for NestJS",
   "author": "kovalenko@gmail.com",
   "license": "MIT",
